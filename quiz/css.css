@@ -1,0 +1,10 @@
+p {
+    border: 3px green dotted;
+}
+.blue{
+    border-bottom: 50px solid blue;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    width: 720px;
+    transform: rotate(180deg);
+}

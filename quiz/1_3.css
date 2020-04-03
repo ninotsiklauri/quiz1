@@ -1,0 +1,14 @@
+.border{
+    border-collapse: collapse;
+    border: solid;
+}
+.bereti{
+    text-decoration: underline;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+    height: 400px;
+}
